@@ -4,4 +4,4 @@
 
 Example Classification Report:
 
-![Example Classification Report](ClassificationReports/Tfidf/RandomUnderSampler/VotingClassifier_toxic.PNG)
+![Example Classification Report](ClassificationReports/Tfidf/RandomUnderSampler/VotingClassifier_toxic.png)
